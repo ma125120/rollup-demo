@@ -1,0 +1,12 @@
+*.log
+.DS_Store
+node_modules
+dist
+es
+lib
+package-lock.json
+tsconfig.tsbuildinfo
+coverage
+style.js
+packages/*/LICENSE
+examples/svelte-webpack/src/locales.js
